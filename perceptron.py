@@ -4,7 +4,7 @@ CPSC 371 - Assignment 2
 
 Sukirat Singh Dhillon,230155722
 Karsten Ngai Nakamura
-Amaan Hingora
+Amaan Hingora, 230156282
 Akshay ArulKrishnan
 
 All categorical attributes are one-hot encoded. Missing values ('?') get
