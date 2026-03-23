@@ -13,7 +13,7 @@ Amaan Hingora ,
 
 ---
 
-Disclaimer : AI assistance was used to edit the markdown file
+Disclaimer : AI assistance was used to edit the markdown file and format code
 
 ## Overview
 
