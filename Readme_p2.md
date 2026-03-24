@@ -1,19 +1,17 @@
 # CPSC 371 – Assignment 2: Mushroom Classification
-**Team:** Unsupervised Men
+**Team:** The Unsupervised Guys
 
 Sukirat Singh Dhillon , 230155722
 
-Karsten Ngai Nakamura , 
+Karsten Ngai Nakamura , 230165205
 
-Akshay Arulkrishnan , 
+Akshay Arulkrishnan , 230158634
 
-Amaan Hingora , 
+Amaan Hingora , 230156282
 
 **Due:** March 23, 2026
 
 ---
-
-Disclaimer : AI assistance was used to edit the markdown file and format code
 
 ## Overview
 
