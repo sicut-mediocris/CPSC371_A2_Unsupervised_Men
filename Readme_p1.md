@@ -1,5 +1,5 @@
 # CPSC 371 – Assignment 2: Mushroom Classification  
-**Team:** Unsupervised Men  
+**Team:** The Unsupervised Guys  
 
 Sukirat Singh Dhillon , 230155722  
 
