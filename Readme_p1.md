@@ -11,11 +11,6 @@ Amaan Hingora , 230156282
 
 **Due:** March 23, 2026
 
----
-
-Disclaimer : AI assistance was used to edit the markdown file and format code
-
----
 
 ## Part 1 – K-Nearest Neighbors (KNN)
 
